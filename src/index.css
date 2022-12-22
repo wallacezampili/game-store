@@ -1,0 +1,20 @@
+*
+{
+  padding: 0;
+  border: none;
+  margin: 0;
+}
+
+:root
+{
+  /* --primary : #073B3A;
+  --secundary: #6BBF59; */
+  --primary :  #FAF7F0;
+  --secundary: #846267;
+  --hover: rgba(231, 222, 205, 0.5);
+  --btn_hover: rgba(132, 98, 103, 0.9);
+  --font_color1: #000;
+  --font_color2: #fff;
+  --font : 'Poppins', sans-serif;
+  
+}

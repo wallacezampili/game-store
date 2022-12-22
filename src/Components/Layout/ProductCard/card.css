@@ -1,0 +1,31 @@
+.card
+{
+    font-family: var(--font);
+    background-color: white;
+    margin: 20px;
+    box-shadow: rgb(228, 225, 225) 2px 1px 10px 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px 20px;
+}
+.card h1
+{
+    color: var(--secundary);
+    font-size: 1.5em;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+.card span
+{
+    color: var(--secundary);
+    font-size: 1.2em;
+    margin-bottom: 25px;
+}
+.card img
+{
+    margin-bottom: 30px;
+    width: 250px;
+    height: 300px;
+}
